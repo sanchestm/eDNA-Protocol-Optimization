@@ -1,0 +1,85 @@
+sample name,type of filter,filtration time (min),type of extraction,extraction time,cq,log10[eDNA],Cost ($),ZYMO
+W1,Filter paper N1,2.595833333,QIagen,77,31.02,-2.21,5.3,No
+W2,Filter paper N1,3.121833333,QIagen,77,31.5,-2.315,5.3,No
+W3,Filter paper N1,11.49366667,QIagen,77,31.75,-2.369,5.3,No
+W4,Filter paper N1,14.77016667,Dipstick,7,40.48,-4.258,2.6,No
+W5,Filter paper N1,2.339333333,Dipstick,7,39.29,-4.002,2.6,No
+W6,Filter paper N1,3.990333333,Dipstick,7,40.27,-4.214,2.6,No
+W7,Filter paper N1,5.617166667,NaOH,50,58.99,-8.266,2.7,No
+W8,Filter paper N1,11.5345,NaOH,50,,,2.7,No
+W9,Filter paper N1,2.566666667,NaOH,50,,,2.7,No
+W10,Filter paper N1,3.739166667,Magnetic Beads,25,34.73,-3.014,6.9,No
+W11,Filter paper N1,5.5835,Magnetic Beads,25,31.33,-2.278,6.9,No
+W12,Filter paper N1,11.30533333,Magnetic Beads,25,32.04,-2.432,6.9,No
+W13,Filter paper N1,6.486333333,Dipstick to qPCR,3,36.75,-3.451,2.6,No
+W14,Filter paper N1,8.504666667,Dipstick to qPCR,3,35.54,-3.189,2.6,No
+W15,Filter paper N1,9.138333333,Dipstick to qPCR,3,34.16,-2.891,2.6,No
+GF1,Glass fiber,2.15,QIagen,77,29.23,-1.823,5.645,No
+GF2,Glass fiber,2.184833333,QIagen,77,29.24,-1.824,5.645,No
+GF3,Glass fiber,2.285,QIagen,77,29.2,-1.817,5.645,No
+GF4,Glass fiber,2.316,Dipstick,7,,,2.945,No
+GF5,Glass fiber,2.304333333,Dipstick,7,,,2.945,No
+GF6,Glass fiber,2.32,Dipstick,7,39.19,-3.979,2.945,No
+GF7,Glass fiber,2.338333333,NaOH,50,,,3.045,No
+GF8,Glass fiber,2.407,NaOH,50,48.85,-6.071,3.045,No
+GF9,Glass fiber,2.321,NaOH,50,,,3.045,No
+GF10,Glass fiber,2.338166667,Magnetic Beads,25,33.42,-2.73,7.245,No
+GF11,Glass fiber,2.420166667,Magnetic Beads,25,31.05,-2.218,7.245,No
+GF12,Glass fiber,2.485333333,Magnetic Beads,25,31.39,-2.292,7.245,No
+GF13,Glass fiber,2.218,Dipstick to qPCR,3,33.69,-2.789,2.945,No
+GF14,Glass fiber,2.334,Dipstick to qPCR,3,33.76,-2.804,2.945,No
+GF15,Glass fiber,2.393,Dipstick to qPCR,3,34.38,-2.939,2.945,No
+MCI1,Nitrocellulose,14.71666667,QIagen,77,28.9,-1.751,7.016,No
+MCI2,Nitrocellulose,14.28733333,QIagen,77,29.27,-1.831,7.016,No
+MCI3,Nitrocellulose,12.964,QIagen,77,29.28,-1.833,7.016,No
+MCI4,Nitrocellulose,14.5205,Dipstick,7,38.13,-3.751,4.316,No
+MCI5,Nitrocellulose,15.509,Dipstick,7,36.34,-3.362,4.316,No
+MCI6,Nitrocellulose,16.112,Dipstick,7,39.49,-4.045,4.316,No
+MCI7,Nitrocellulose,9.7615,NaOH,50,,,4.416,No
+MCI8,Nitrocellulose,11.78266667,NaOH,50,49.44,-6.199,4.416,No
+MCI9,Nitrocellulose,14.77566667,NaOH,50,,,4.416,No
+MCI10,Nitrocellulose,15.89366667,Magnetic Beads,25,33.11,-2.662,8.616,No
+MCI11,Nitrocellulose,14.32483333,Magnetic Beads,25,,,8.616,No
+MCI12,Nitrocellulose,12.98333333,Magnetic Beads,25,,,8.616,No
+MCI13,Nitrocellulose,13.5025,Dipstick to qPCR,3,33.03,-2.646,4.316,No
+MCI14,Nitrocellulose,16.38266667,Dipstick to qPCR,3,33.53,-2.753,4.316,No
+MCI15,Nitrocellulose,17.32583333,Dipstick to qPCR,3,33.66,-2.783,4.316,No
+Blank,GF control,2.191166667,QIagen,87,,,7.46,Yes
+CABA,GF control,5.741833333,QIagen,87,26.86,-1.609,7.46,Yes
+Suisun,GF control,2.381166667,QIagen,87,,,7.46,Yes
+W1 zymo,Filter paper N1,2.595833333,QIagen,87,30.93,-2.191,7.46,Yes
+W2 zymo,Filter paper N1,3.121833333,QIagen,87,31.18,-2.244,7.46,Yes
+W3 zymo,Filter paper N1,11.49366667,QIagen,87,31.04,-2.215,7.46,Yes
+W4 zymo,Filter paper N1,14.77016667,Dipstick,17,,,4.76,Yes
+W5 zymo,Filter paper N1,2.339333333,Dipstick,17,,,4.76,Yes
+W6 zymo,Filter paper N1,3.990333333,Dipstick,17,39.4,-4.026,4.76,Yes
+W7 zymo,Filter paper N1,5.617166667,NaOH,60,,,4.86,Yes
+W8 zymo,Filter paper N1,11.5345,NaOH,60,,,4.86,Yes
+W9 zymo,Filter paper N1,2.566666667,NaOH,60,,,4.86,Yes
+W10 zymo,Filter paper N1,3.739166667,Magnetic Beads,35,33.8,-2.813,9.06,Yes
+W11 zymo,Filter paper N1,5.5835,Magnetic Beads,35,30.92,-2.188,9.06,Yes
+W12 zymo,Filter paper N1,11.30533333,Magnetic Beads,35,31.73,-2.363,9.06,Yes
+GF1 zymo,Glass fiber,2.15,QIagen,87,29.07,-1.788,7.805,Yes
+GF2 zymo,Glass fiber,2.184833333,QIagen,87,30.01,-1.992,7.805,Yes
+GF3 zymo,Glass fiber,2.285,QIagen,87,28.43,-1.649,7.805,Yes
+GF4 zymo,Glass fiber,2.316,Dipstick,17,,,5.105,Yes
+GF5 zymo,Glass fiber,2.304333333,Dipstick,17,38.16,-3.756,5.105,Yes
+GF6 zymo,Glass fiber,2.32,Dipstick,17,,,5.105,Yes
+GF7 zymo,Glass fiber,2.338333333,NaOH,60,,,5.205,Yes
+GF8 zymo,Glass fiber,2.407,NaOH,60,34.94,-3.059,5.205,Yes
+GF9 zymo,Glass fiber,2.321,NaOH,60,31.76,-2.371,5.205,Yes
+GF10 zymo,Glass fiber,2.338166667,Magnetic Beads,35,32.41,-2.511,9.405,Yes
+GF11 zymo,Glass fiber,2.420166667,Magnetic Beads,35,30.1,-2.011,9.405,Yes
+GF12 zymo,Glass fiber,2.485333333,Magnetic Beads,35,31.08,-2.223,9.405,Yes
+MCI1 zymo,Nitrocellulose,14.71666667,QIagen,87,28.87,-1.744,9.176,Yes
+MCI2 zymo,Nitrocellulose,14.28733333,QIagen,87,28.12,-1.582,9.176,Yes
+MCI3 zymo,Nitrocellulose,12.964,QIagen,87,28.55,-1.675,9.176,Yes
+MCI4 zymo,Nitrocellulose,14.5205,Dipstick,17,39.36,-4.016,6.476,Yes
+MCI5 zymo,Nitrocellulose,15.509,Dipstick,17,,,6.476,Yes
+MCI6 zymo,Nitrocellulose,16.112,Dipstick,17,37.78,-3.674,6.476,Yes
+MCI7 zymo,Nitrocellulose,9.7615,NaOH,60,27.47,-1.441,6.576,Yes
+MCI8 zymo,Nitrocellulose,11.78266667,NaOH,60,28.35,-1.631,6.576,Yes
+MCI9 zymo,Nitrocellulose,14.77566667,NaOH,60,31.4,-2.292,6.576,Yes
+MCI10 zymo,Nitrocellulose,15.89366667,Magnetic Beads,35,30.03,-1.995,10.776,Yes
+MCI11 zymo,Nitrocellulose,14.32483333,Magnetic Beads,35,,,10.776,Yes
+MCI12 zymo,Nitrocellulose,12.98333333,Magnetic Beads,35,28.64,-1.696,10.776,Yes

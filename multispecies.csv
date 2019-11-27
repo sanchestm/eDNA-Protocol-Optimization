@@ -1,0 +1,111 @@
+Sample,filter,ext,conc eDNA,retrieval
+chinook,nitrile,NaOH,1,-4.623
+chinook,nitrile,NaOH,1,-4.302
+chinook,nitrile,NaOH,1,-6.339
+chinook,nitrile,NaOH,0.1,
+chinook,nitrile,NaOH,0.1,
+chinook,nitrile,NaOH,0.1,-6.06
+chinook,nitrile,NaOH,0.01,
+chinook,nitrile,NaOH,0.01,
+chinook,nitrile,NaOH,0.01,
+chinook,nitrile,NaOH,0,
+chinook,nitrile,beads,1,-3.19
+chinook,nitrile,beads,1,-2.796
+chinook,nitrile,beads,1,-3.775
+chinook,nitrile,beads,0.1,-3.38
+chinook,nitrile,beads,0.1,-3.263
+chinook,nitrile,beads,0.1,-2.898
+chinook,nitrile,beads,0.01,-3.823
+chinook,nitrile,beads,0.01,
+chinook,nitrile,beads,0.01,
+chinook,nitrile,beads,0,
+chinook,nitrile,QI,1,-3.191
+chinook,nitrile,QI,1,-3.085
+chinook,nitrile,QI,1,-2.964
+chinook,nitrile,QI,0.1,-3.115
+chinook,nitrile,QI,0.1,-3.017
+chinook,nitrile,QI,0.1,-3.273
+chinook,nitrile,QI,0.01,
+chinook,nitrile,QI,0.01,-2.126
+chinook,nitrile,QI,0.01,-2.448
+chinook,nitrile,QI,0,
+chinook,glass ,beads,1,-3.428
+chinook,glass ,beads,1,-3.203
+chinook,glass ,beads,1,-2.96
+chinook,glass ,beads,0.1,-3.473
+chinook,glass ,beads,0.1,-3.713
+chinook,glass ,beads,0.1,-3.538
+chinook,glass ,beads,0.01,
+chinook,glass ,beads,0.01,-2.211
+chinook,glass ,beads,0.01,
+chinook,glass ,beads,0,
+chinook,glass ,QI,1,-3.736
+chinook,glass ,QI,1,-3.511
+chinook,glass ,QI,1,-3.95
+chinook,glass ,QI,0.1,-3.794
+chinook,glass ,QI,0.1,
+chinook,glass ,QI,0.1,-3.496
+chinook,glass ,QI,0.01,
+chinook,glass ,QI,0.01,
+chinook,glass ,QI,0.01,
+chinook,glass ,QI,0,
+chinook,glass ,dDIP,1,
+chinook,glass ,dDIP,1,
+chinook,glass ,dDIP,1,-4.438
+chinook,glass ,dDIP,0.1,
+chinook,glass ,dDIP,0.1,
+chinook,glass ,dDIP,0.1,
+chinook,glass ,dDIP,0.01,
+chinook,glass ,dDIP,0.01,
+chinook,glass ,dDIP,0.01,
+chinook,glass ,dDIP,0,
+Sturgeon ,nitrile,NaOH,10,-5.95
+Sturgeon ,nitrile,NaOH,10,-4.133
+Sturgeon ,nitrile,NaOH,10,-5.57
+Sturgeon ,nitrile,NaOH,1,
+Sturgeon ,nitrile,NaOH,1,-3.966
+Sturgeon ,nitrile,NaOH,1,-4.494
+Sturgeon ,nitrile,NaOH,0.1,
+Sturgeon ,nitrile,NaOH,0.1,
+Sturgeon ,nitrile,NaOH,0.1,-8.269
+Sturgeon ,nitrile,NaOH,0,
+Sturgeon ,nitrile,beads,10,-3.196
+Sturgeon ,nitrile,beads,10,-3.009
+Sturgeon ,nitrile,beads,10,-4.011
+Sturgeon ,nitrile,beads,1,-2.505
+Sturgeon ,nitrile,beads,1,-3.059
+Sturgeon ,nitrile,beads,1,-2.905
+Sturgeon ,nitrile,beads,0.1,-2.912
+Sturgeon ,nitrile,beads,0.1,-3.634
+Sturgeon ,nitrile,beads,0.1,-2.941
+Sturgeon ,nitrile,beads,0,
+Sturgeon ,nitrile,QI,10,-3.477
+Sturgeon ,nitrile,QI,10,-3.418
+Sturgeon ,nitrile,QI,10,-3.477
+Sturgeon ,nitrile,QI,1,-2.478
+Sturgeon ,nitrile,QI,1,-3.171
+Sturgeon ,nitrile,QI,1,-2.74
+Sturgeon ,nitrile,QI,0.1,-3.591
+Sturgeon ,nitrile,QI,0.1,-2.581
+Sturgeon ,nitrile,QI,0.1,-2.8
+Sturgeon ,nitrile,QI,0,
+Sturgeon ,glass ,beads,10,-3.894
+Sturgeon ,glass ,beads,10,-3.695
+Sturgeon ,glass ,beads,10,-3.325
+Sturgeon ,glass ,beads,1,-3.16
+Sturgeon ,glass ,beads,1,-3.548
+Sturgeon ,glass ,beads,1,-3.741
+Sturgeon ,glass ,beads,0.1,-3.279
+Sturgeon ,glass ,beads,0.1,-3.721
+Sturgeon ,glass ,beads,0.1,
+Sturgeon ,glass ,beads,0,
+Sturgeon ,glass ,QI,10,-3.651
+Sturgeon ,glass ,QI,10,-3.805
+Sturgeon ,glass ,QI,10,-4.218
+Sturgeon ,glass ,QI,1,-3.665
+Sturgeon ,glass ,QI,1,-4.015
+Sturgeon ,glass ,QI,1,-3.736
+Sturgeon ,glass ,QI,0.1,-3.552
+Sturgeon ,glass ,QI,0.1,-2.953
+Sturgeon ,glass ,QI,0.1,
+Sturgeon ,glass ,QI,0,

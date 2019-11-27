@@ -1,0 +1,41 @@
+Sample ,filter,ext,conc eDNA,ini ng of gblock,cq,ng of gblock,n copies,retrieval
+chinook,nitrile,beads,1,-4.763,34.24,-7.953,,-3.19
+chinook,nitrile,beads,1,-4.763,32.77,-7.559,,-2.796
+chinook,nitrile,beads,1,-4.763,36.41,-8.538,,-3.775
+chinook,nitrile,beads,0.1,-5.507,37.71,-8.887,,-3.38
+chinook,nitrile,beads,0.1,-5.507,37.27,-8.77,,-3.263
+chinook,nitrile,beads,0.1,-5.507,35.92,-8.405,,-2.898
+chinook,nitrile,beads,0.01,-7.172,45.53,-10.995,,-3.823
+chinook,nitrile,beads,0.01,-7.172,,,,
+chinook,nitrile,beads,0.01,-7.172,,,,
+chinook,nitrile,beads,0,-20,,,,
+chinook,nitrile,QI,1,-4.763,34.24,-7.954,,-3.191
+chinook,nitrile,QI,1,-4.763,33.85,-7.848,,-3.085
+chinook,nitrile,QI,1,-4.763,33.4,-7.727,,-2.964
+chinook,nitrile,QI,0.1,-5.507,36.72,-8.622,,-3.115
+chinook,nitrile,QI,0.1,-5.507,36.36,-8.524,,-3.017
+chinook,nitrile,QI,0.1,-5.507,37.31,-8.78,,-3.273
+chinook,nitrile,QI,0.01,-7.172,,,,
+chinook,nitrile,QI,0.01,-7.172,40.43,-9.298,,-2.126
+chinook,nitrile,QI,0.01,-7.172,39.23,-9.62,,-2.448
+chinook,nitrile,QI,0,-20,,,,
+chinook,glass ,beads,1,-4.763,35.12,-8.191,,-3.428
+chinook,glass ,beads,1,-4.763,34.28,-7.966,,-3.203
+chinook,glass ,beads,1,-4.763,33.38,-7.723,,-2.96
+chinook,glass ,beads,0.1,-5.507,38.05,-8.98,,-3.473
+chinook,glass ,beads,0.1,-5.507,38.94,-9.22,,-3.713
+chinook,glass ,beads,0.1,-5.507,38.29,-9.045,,-3.538
+chinook,glass ,beads,0.01,-7.172,,,,
+chinook,glass ,beads,0.01,-7.172,39.55,-9.383,,-2.211
+chinook,glass ,beads,0.01,-7.172,,,,
+chinook,glass ,beads,0,-20,,,,
+chinook,glass ,QI,1,-4.763,36.26,-8.499,,-3.736
+chinook,glass ,QI,1,-4.763,35.43,-8.274,,-3.511
+chinook,glass ,QI,1,-4.763,37.06,-8.713,,-3.95
+chinook,glass ,QI,0.1,-5.507,39.24,-9.301,,-3.794
+chinook,glass ,QI,0.1,-5.507,,,,
+chinook,glass ,QI,0.1,-5.507,38.13,-9.003,,-3.496
+chinook,glass ,QI,0.01,-7.172,,,,
+chinook,glass ,QI,0.01,-7.172,,,,
+chinook,glass ,QI,0.01,-7.172,,,,
+chinook,glass ,QI,0,-20,,,,
